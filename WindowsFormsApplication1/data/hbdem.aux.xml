@@ -1,0 +1,18 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="OVERVIEWS">
+    <MDI key="OVERVIEW_FILE">C:\Users\zxc\AppData\Local\ESRI\rasterproxies/000030_E__Work_________________________________________________5_______5_______hbdem.ovr</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>hbdem</Description>
+    <NoDataValue>3.27670000000000E+004</NoDataValue>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
